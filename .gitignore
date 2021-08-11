@@ -1,0 +1,10 @@
+
+*.qrc
+
+venv37
+.vscode
+__pycache__
+Acquisition_H_A1C+_001_5_MPAandP_02092021__0001_J4__20210209_23-44-42_0001.txt
+rawBloodspectra.txt
+testacquis.txt
+License.txt

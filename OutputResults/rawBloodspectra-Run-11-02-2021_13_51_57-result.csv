@@ -1,0 +1,2 @@
+User ID,Machine,Location,Date,Test,SampleType,Matrix,Dilution,Repeat,Result,Quality Control Reading,HbA1C Region,HbA1C Reading,HbA1C Ratio
+rawBloodspectra,Unknown,Unknown,11-02-2021_13_51_57,Diabetes,Unknown,Unknown,Unknown,Unknown,False,Pass,7677.23711,2.692403603220839,0.057

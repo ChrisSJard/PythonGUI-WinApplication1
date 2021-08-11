@@ -1,0 +1,2 @@
+User ID,Machine,Location,Date,Test,SampleType,Matrix,Dilution,Repeat,Result,Quality Control Reading,HbA1C Region,HbA1C Reading,HbA1C Ratio
+Acquisition_H_A1C+_001_5_MPAandP_02092021__0001_J4__20210209_23,Unknown,Unknown,11-02-2021_11_03_53,Diabetes,Unknown,Unknown,42_0001,44,QcFail,HbA1C Fail,0,0.1,
